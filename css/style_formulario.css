@@ -67,3 +67,27 @@ button{
     cursor: pointer;
     background-color: rgb(198, 168, 226);
 }
+
+input::placeholder, textarea::placeholder{
+color: rgb(187, 138, 233);
+letter-spacing: 5px;
+}
+
+a:link{
+    font-family: 'Courier New';
+    text-decoration: none;
+    color: #53097e;
+    background-color: #c774e7;
+}
+
+a:visited, a:active{
+    font-family: 'Courier New';
+    text-decoration: none;
+    color: #53097e;
+    background-color: #c774e7;
+}
+
+a:hover{
+    color:#53097e;
+    background-color: #c774e7;
+}
