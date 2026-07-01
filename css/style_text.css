@@ -1,0 +1,41 @@
+/*
+seletor {
+    propriedade : valor;
+    propriedade : valor ;
+}
+*/
+
+h3{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(162, 96, 224);
+}
+ 
+p{
+    font-family: Helvetica;
+    text-align: justify;
+    line-height: 35px;
+    color: rgb(62, 6, 114);
+}
+
+#paragrafo01{
+   margin-left: 250px;
+   text-transform: uppercase;
+}
+
+#paragrafo02{
+    margin-left: 300px;
+    background-color: rgb(157, 103, 219);
+}
+
+.paragrafos{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2. 3em;
+    line-height: 80px;
+}
+
+.parag_especial{
+    text-decoration: line-through;
+    background-color: rgb(175, 136, 211);
+}
