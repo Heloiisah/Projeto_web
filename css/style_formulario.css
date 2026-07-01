@@ -47,9 +47,23 @@ input[type="radio"], input[type="checkbox"]{
     cursor: pointer;
 }
 
+
+    
 textarea{
     width: 400px;
     height: 100px;
     padding: 20px;
     resize: none;
+}
+
+#div-btns{
+    border: solid 5px #bb8ad1;
+    margin: 20px 0px;
+    padding:  5px;
+}
+button{
+    width: 140px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(198, 168, 226);
 }
